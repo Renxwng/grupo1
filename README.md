@@ -1,2 +1,2 @@
 ﻿# solemne2
-Prueba readme frontend branch
+Este readme es una prueba para la rama
